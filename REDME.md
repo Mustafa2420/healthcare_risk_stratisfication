@@ -263,9 +263,9 @@ Probability : 0.87
 
 Data Analyst | Python | SQL | Machine Learning | Power BI
 
-LinkedIn: *(Add your LinkedIn URL)*
+LinkedIn: *https://www.linkedin.com/in/mdmustafaansari*
 
-GitHub: *(Add your GitHub URL)*
+GitHub: *https://github.com/Mustafa2420?tab=repositories*
 
 ---
 
